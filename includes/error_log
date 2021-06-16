@@ -1,0 +1,7 @@
+[01-Mar-2021 13:54:23 America/New_York] PHP Notice:  Undefined variable: password in /home/firebadl/phoenixbtcmining.com/includes/verify_email.php on line 74
+[02-Mar-2021 11:44:10 America/New_York] PHP Notice:  Undefined variable: password in /home/firebadl/phoenixbtcmining.com/includes/verify_email.php on line 74
+[02-Mar-2021 12:25:23 America/New_York] PHP Notice:  Undefined index: Username in /home/firebadl/phoenixbtcmining.com/includes/withdraws.php on line 9
+[02-Mar-2021 12:25:35 America/New_York] PHP Notice:  Undefined index: Username in /home/firebadl/phoenixbtcmining.com/includes/withdraws.php on line 9
+[06-Mar-2021 07:37:13 America/New_York] PHP Notice:  Undefined variable: password in /home/firebadl/phoenixbtcmining.com/includes/verify_email.php on line 74
+[06-Mar-2021 07:37:16 America/New_York] PHP Notice:  Undefined variable: password in /home/firebadl/phoenixbtcmining.com/includes/verify_email.php on line 74
+[20-Mar-2021 05:00:38 America/New_York] PHP Notice:  Undefined variable: password in /home/firebadl/phoenixbtcmining.com/includes/verify_email.php on line 74
