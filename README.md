@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Investment scheme
- investment community
-=======
 # PHP built Investment website
- investment scheme built on PHP 
->>>>>>> 4d10750909932d2597af7303d955142ce5159e75
+this is a dummy website built with PHP. it is incorporated with phpmailer, vlucas env variables and best practice PHP code structure.
+
