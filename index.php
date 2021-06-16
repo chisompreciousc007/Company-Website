@@ -18,7 +18,7 @@ require_once 'includes/header.php';
                         <div class="col-sm-12">
                             <div class="index_banner_content">
                                 <h2>Lorem ipsum dolor sit amet <span>
-                                        <p style="color:goldenrod"> <span>Lorem IPSUM</span></p>
+                                        <p style="color:goldenrod"> <span>LOREM IPSUM</span></p>
                                     </span></h2>
                                 <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Earum tempora eum explicabo reprehenderit obcaecati incidunt ea!
