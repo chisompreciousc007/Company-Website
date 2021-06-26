@@ -15,7 +15,7 @@ $dotenv->load();
 
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>MarketExchangeFX</title>
+    <title>BTC INVESTMENT</title>
     <link rel="shortcut icon" href="images/favico.ico" type="image/x-icon">
 
     <link rel="stylesheet" type="text/css" href="css/animate.css" />

@@ -74,7 +74,7 @@ if (isset($_POST["submit"])) {
         $mail->isHTML(true); // Set email format to HTML
 
         //Recipients
-        $mail->setFrom('noreply@marketexchangefx.com', 'Your Website Here');
+        $mail->setFrom('noreply@codeplugx.com', 'This is a test');
         $mail->addAddress($email, $fullName); // Add a recipient
 
         $mail->Subject = 'Verification Code';
@@ -88,7 +88,7 @@ if (isset($_POST["submit"])) {
        <p>Thanks,</p>
        <p>Your website here</p>
        <hr>
-       <p>© 2021 <a href="www.google.com" >Your Website here</a > All Rights Reserved. </p>
+       <p>© 2021 <a href="www.codeplugx.com" >Your Website here</a > All Rights Reserved. </p>
        ';
 
         if ($mail->send()) {

@@ -52,21 +52,21 @@ if (isset($_POST["confirm_deposit"])) {
             $mail->isHTML(true); // Set email format to HTML
 
             //Recipients
-            $mail->setFrom('noreply@marketexchangefx.com', 'MarketExchangeFX Ltd');
+            $mail->setFrom('noreply@codeplugx.com', 'This is a test');
             $mail->addAddress($email, $fullName); // Add a recipient
 
             $mail->Subject = 'Deposit Confirmation';
             $mail->Body = '<p>Hello ' . $fullName . ',<br> Your deposit of <h3 style="display:inline">$' . $amount . '</ h3> have been confirmed.</p>
       <p> We look forward to a great partnership with you, Enjoy your journey of financial Freedom.  </p>
        <br>
-       <p>Do you have any questions? Visit our <a href="www.marketexchangefx.com/faq.php" >FAQ</a > page. </p>
+       <p>Do you have any questions? Visit our <a href="www.google.com" >FAQ</a > page. </p>
        <br>
        <p>If you did not attempt to make deposit, please ignore this email. </p>
        <br>
        <p>Thanks,</p>
-       <p>MarketExchangeFX Ltd</p>
+       <p>Your website here</p>
        <hr>
-       <p>© 2021 <a href="www.marketexchangefx.com" >MarketExchangeFX Ltd</a > All Rights Reserved. </p>
+       <p>© 2021  All Rights Reserved. </p>
        ';
 
             if ($mail->send()) {
@@ -129,21 +129,21 @@ if (isset($_POST["confirm_withdrawal"])) {
             $mail->isHTML(true); // Set email format to HTML
 
             //Recipients
-            $mail->setFrom('noreply@marketexchangefx.com', 'MarketExchangeFX Ltd');
+            $mail->setFrom('noreply@codeplugx.com', 'This is a test');
             $mail->addAddress($email, $fullName); // Add a recipient
 
             $mail->Subject = 'Withdrawal Confirmation';
             $mail->Body = '<p>Hello ' . $fullName . ',<br> Your withdrawal of <h3 style="display:inline">$' . $amount . '</ h3> have been confirmed.</p>
       <p> We look forward to a great partnership with you, Enjoy your journey of financial Freedom.  </p>
        <br>
-       <p>Do you have any questions? Visit our <a href="www.marketexchangefx.com/faq.php" >FAQ</a > page. </p>
+       <p>Do you have any questions? Visit our <a href="www.google.com" >FAQ</a > page. </p>
        <br>
        <p>If you did not attempt to make deposit, please ignore this email. </p>
        <br>
        <p>Thanks,</p>
-       <p>MarketExchangeFX Ltd</p>
+       <p>Your website here</p>
        <hr>
-       <p>© 2021 <a href="www.marketexchangefx.com" >MarketExchangeFX Ltd</a > All Rights Reserved. </p>
+       <p>© 2021  All Rights Reserved. </p>
        ';
 
             if ($mail->send()) {
